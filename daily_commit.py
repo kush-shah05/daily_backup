@@ -3,7 +3,7 @@ import datetime
 import subprocess
 
 # Set the path to your local Git repository
-REPO_DIR = 'C:/Users/Kush/OneDrive/Desktop/daily_backup'
+REPO_DIR = 'C:/Users/Kush/OneDrive/Desktop/DevOps2024/Python/Automation'
 FILE_NAME = 'daily_commit.txt'
 
 # Change directory to the repository
