@@ -9,7 +9,7 @@ FILE_NAME = 'daily_commit.txt'
 # Change directory to the repository
 os.chdir(REPO_DIR)
 
-# Modify the file or create it if it doesn't exist
+# Modify the file or create it if it doesn't existt
 with open(FILE_NAME, 'a') as file:
     file.write(f"Daily commit: {datetime.datetime.now()}\n")
 
